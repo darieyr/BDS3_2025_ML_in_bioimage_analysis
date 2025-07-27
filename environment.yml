@@ -1,0 +1,16 @@
+name: bioimage_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - pip
+  - scikit-image
+  - scipy
+  - scikit-learn
+  - plotly
+  - pip:
+      - bioimageio.core==0.8.0
+      - torch==2.5.1
+      - matplotlib==3.10.1
