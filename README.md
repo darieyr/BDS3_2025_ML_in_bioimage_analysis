@@ -43,3 +43,17 @@ To open Jupyter Lab:
 ```bash
 jupyter lab
 ```
+
+## Course content 
+
+Part 1: 
+
+Part 2: 
+- [![Open In Colab](https://colab.research.google.com/drive/1jJ2ZWNFylEsxhC_RGWzAEEWDKexAYxEA?usp=sharing)
+- [![Open In Colab](https://colab.research.google.com/drive/1NMvuVCUPhyKpN60Oza3Mby3zjT2_zWHL?usp=sharing#scrollTo=0NFUnFpei3Ws)
+- [![Open In Colab](https://colab.research.google.com/drive/1fEYJ3N1iTXrQD0pvuFfDl292wU7OlNj2?authuser=1#scrollTo=xQhf8On9MeaE) 
+Part 3:
+
+Part 4: 
+
+Part 5: 
