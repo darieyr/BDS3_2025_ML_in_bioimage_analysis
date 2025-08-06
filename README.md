@@ -12,7 +12,7 @@ The materials were created for Biological Data Science Summer School taking plac
 |       | Sun, 27/07      | Mon, 28/07      | Tue, 29/07      | Wed, 30/07      | Thu, 31/07      | Fri, 01/08      |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | Morning session | - | Q/A session & Image Analysis in Python Basics | Q/A session | Q/A session | Q/A session | Poster preparation |
-| Afternoon session | Biological Context and Goals of the Project | Image Analysis in Python Basics & Data Exploration &  Image Segmentation using a Pretrained DL Model<br>from BioImage Model Zoo | Data Exploration. Image Segmentation using a Pretrained DL Model<br>from BioImage Model Zoo. Optimisation of Calculation Time (zarr, dask) | Foci Colocation Analysis, Feature Extraction | Statistical Analysis, possibly Analysis<br>using Machine Learning Techniques. Results Visualisation | Conference |
+| Afternoon session | Biological Context and Goals of the Project | Image Analysis in Python Basics & Data Exploration | Data Exploration. Image Segmentation using a Pretrained DL Model<br>from BioImage Model Zoo. Optimisation of Calculation Time (zarr, dask) | Image Segmentation using a Pretrained DL Model<br>from BioImage Model Zoo (c.d.). <br> 3D Foci Segmentation. Foci Features Extraction | Statistical Analysis & Analysis<br>using ML Clustering & Visualisation | Conference |
 
 ## Installation
 
