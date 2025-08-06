@@ -48,10 +48,26 @@ jupyter lab
 
 Part 1: 
 
+- [1 - Jupyter Lab](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/eng/1_Image_Analysis_Basics.ipynb)
+
 Part 2: 
+
+- [![2 (UA) - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jJ2ZWNFylEsxhC_RGWzAEEWDKexAYxEA?usp=sharing)
+
+- [![2.1 - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/eng/2_1_Image_channels_loading.ipynb)
+
+- - [![2.2 (UA) - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/ua/2_2_Pure_data_processing_ua.ipynb)
 
 Part 3:
 
+- [3 - Jupyter Lab](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/eng/3_Find_local_int_max_in_3D.ipynb)
+
+- [3.1 - Jupyter Lab](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/eng/3_1_Batch_Processing_find_max_sep_objects_3D.ipynb)
+  
 Part 4: 
 
+- [4 - Jupyter Lab](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/eng/4_Features_extraction.ipynb)
+
 Part 5: 
+
+- [5 - Jupyter Lab](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/eng/5_Analysis_and_visualization_with_ML.ipynb)
