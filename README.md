@@ -50,8 +50,6 @@ Part 1:
 
 Part 2: 
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/ua/2_BioImage_Model_Zoo_ua.ipynb)
-
 Part 3:
 
 Part 4: 
