@@ -1,7 +1,7 @@
 
 # Microscopy Image Analysis using Machine Learning based algorithms
 
-## Analysis of γH2AX, 53BP1 and replication factories collocalization in A549 
+## Analysis of γH2AX, 53BP1 and replication factories in A549 
 
 The materials were created for Biological Data Science Summer School taking place in Uzhhorod, Ukraine, July 19 - August 2, 2025 
 
