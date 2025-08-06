@@ -9,9 +9,10 @@ dependencies:
   - scikit-image
   - scipy
   - scikit-learn
-  - plotly
   - pip:
       - bioimageio.core==0.8.0
       - torch==2.5.1
       - matplotlib==3.10.1
       - tifffile
+      - plotly
+
