@@ -56,7 +56,7 @@ Part 2:
 
 - [![2.1 - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/eng/2_1_Image_channels_loading.ipynb)
 
-- - [![2.2 (UA) - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/ua/2_2_Pure_data_processing_ua.ipynb)
+- [![2.2 (UA) - Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/darieyr/BDS3_2025_ML_in_bioimage_analysis/blob/main/notebooks/ua/2_2_Pure_data_processing_ua.ipynb)
 
 Part 3:
 
